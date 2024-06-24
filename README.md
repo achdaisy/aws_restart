@@ -6,9 +6,12 @@
  ----------------------------------------------------------------- 
 
 
-Hi there! Welcome to AWS Cloud9!
+This repository contains exercises and examples of using Python with AWS services. Each module focuses on different AWS services and demonstrates practical applications through Python scripts.
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+1. To clone this repository to your local machine:
+git clone https://github.com/achdaisy/aws_restart.git
 
-Happy coding!
+2. Navigate to the desired module directory:
+cd aws_restart
+
+
